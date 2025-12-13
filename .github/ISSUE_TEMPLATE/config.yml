@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Support
+    url: andras@gregorigin.com
+    url: https://forums.unrealengine.com/t/safesave-source-control-traffic-light-git-perforce-released/2682745
+    about: Please ask general questions or feature requests here.
+  - name: 📚 Documentation
+    url: https://gregorigin.gitbook.io/safesave/
+    about: Read the manual before reporting a bug.
