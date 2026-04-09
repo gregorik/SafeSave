@@ -7,6 +7,8 @@
 [Full version on Fab](https://www.fab.com/listings/3efed7b3-085b-44c2-840a-eb47615f8e40)<br>
 [Legacy manual](https://gregorigin.gitbook.io/safesave/)<br>
 
+*[This repository deals with advanced bypasses of standard Unreal C++ bottlenecks. 🟢 Currently available for B2B consulting and remote contract/Co-Dev integration (CET Timezone). [Contact form.](https://gregorigin.com/contact.html)]*
+
 
 <h3>What it does</h3>
 <ul>
